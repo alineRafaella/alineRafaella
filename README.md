@@ -2,7 +2,7 @@
 - Analista de dados. Transformar dados em ações significativas. 
 - Estou constantemente buscando novas técnicas e ferramentas para aprimorar minhas análises e gerar insights valiosos.
 - 📫 linkdin: aline-rafaella-souza-baltazar
-- Tenho hobby de tocar meu violino e clarinete. ("Tocar uma nota errada é insignificante, tocar sem paixão é imperdoável" - Ludwig Van Beethoven)
+- Tenho hobby de tocar instrumentos, amo meu violino e clarinete. ("Tocar uma nota errada é insignificante, tocar sem paixão é imperdoável" - Ludwig Van Beethoven)
 
 Ferramentas que uso:
 Python, Excel, Power BI, MySQL
