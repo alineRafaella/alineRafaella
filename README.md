@@ -5,7 +5,7 @@
 - Tenho hobby de tocar instrumentos, amo meu violino e clarinete. ("Tocar uma nota errada é insignificante, tocar sem paixão é imperdoável" - Ludwig Van Beethoven)
 
 Ferramentas que uso:
-Python, Excel, Power BI, MySQL
+Python, Excel, Power BI e MySQL
 
 
 <!---
